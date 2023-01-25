@@ -1,0 +1,8 @@
+package modele.donnee;
+
+public enum EspeceHippocampe {
+	SYNGNATHUS_ACUS,
+	HYPPOCAMPUS_GUTTULATUS,
+	HIPPOCAMPUS_HIPPOCAMPUS,
+	ENTERURUS_AEQUOREUS
+}
